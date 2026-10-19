@@ -1,0 +1,19 @@
+
+---
+
+###  .gitignore
+```gitignore
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore editor files
+*.swp
+*.swo
+
+# Ignore logs
+*.log
+
+# Ignore archives
+*.zip
+*.tar.gz
